@@ -1,22 +1,16 @@
 ---
-title: Hello André
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Das weltbeste Hobby
+date: "2020-05-30T16:20:00.000Z"
+description: "Segelfliegen - The Sky is no limit!"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Seit drei Jahren betreibe ich das Segelfliegen im Verein.
+Hier sind es neben den tollen Vereinskameraden v.A. die überwältigenden Blicke, die die Sucht ausmachen.
 
-I'm sure I'll write a lot more interesting things in the future.
+![Zusammen in der Luft](./luft-zusammen.jpg)
+![Sonnenunteregang direkt unter den Wolken](./luft-sonne.jpg)
+![Vögel aus Glasfaser-Kunststoff](./luft-1.jpg)
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+## Aber zuerst der Start:
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+![Start an der Winde](./start.jpg)
