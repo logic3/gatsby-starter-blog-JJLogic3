@@ -14,3 +14,5 @@ Hier sind es neben den tollen Vereinskameraden v.A. die überwältigenden Blicke
 ## Aber zuerst der Start:
 
 ![Start an der Winde](./start.jpg)
+
+An der Winde steht das Flugzeug noch still, kurz bevor es mit bis zu 150 km/h in die Luft katapultiert wird.
