@@ -8,7 +8,8 @@ module.exports = {
     description: `A starter blog demonstrating what Logic can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `JJLogic3`
+      twitter: `JJLogic3`,
+      github: ''
     }
   },
   plugins: [
