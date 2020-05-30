@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `JJLogic3`,
-      github: ''
+      github: 'logic3'
     }
   },
   plugins: [
